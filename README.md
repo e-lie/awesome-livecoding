@@ -241,10 +241,6 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `abandoned` `Windows | macOS | GNU/Linux` `TypeScript` `FLOSS` `audio`
 
-- [Renardo](https://renardo.org/#/) - A FoxDot fork bringing new features and functionalities
-
-  `Windows | macOS | GNU/Linux` `Python` `FLOSS` `audio`
-
 - [Repetition.sc](https://github.com/lvm/Repetition.sc) - A set of tools to build a SequenceableCollection of Events. (inactive)
 
   `Windows | macOS | GNU/Linux` `SuperCollider` `FLOSS` `audio`
@@ -253,7 +249,12 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `VCV` `Rack` `Modular` `FLOSS` `audio`
 
-- [Sardine](https://github.com/Bubobubobubobubo/Sardine) A Python based live coding library (MIDI/OSC/SuperDirt).
+- [Renardo](https://github.com/e-lie/renardo) A maintained FoxDot fork with crazy new features and better UX.
+
+  `Windows | macOS | GNU/Linux` `Python` `SuperCollider` `FLOSS` `audio` `midi` `Open Sound Control`
+
+
+- [Sardine](https://github.com/Bubobubobubobubo/Sardine) A new fork of FoxDot with an easier install process and new crazy features.
 
   `Windows | macOS | GNU/Linux` `Python` `SuperCollider` `FLOSS` `audio` `midi` `Open Sound Control`
 
